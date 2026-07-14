@@ -1,6 +1,6 @@
 site:
   name: MyBlog
-  site: 'https://myblog.example.com'
+  site: 'https://tazmi.online'
   base: '/'
   trailingSlash: false
 

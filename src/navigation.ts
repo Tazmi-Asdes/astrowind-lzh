@@ -40,7 +40,7 @@ export const footerData = {
   socialLinks: [
     { ariaLabel: 'GitHub', icon: 'tabler:brand-github', href: 'https://github.com/Tazmi-Asdes' },
     { ariaLabel: 'Email', icon: 'tabler:mail', href: 'mailto:2926238971@qq.com' },
-    { ariaLabel: 'RSS', icon: 'tabler:rss', href: '/' },
+    { ariaLabel: 'RSS', icon: 'tabler:rss', href: '/rss.xml' },
   ],
   footNote: `
     © 2025 林子航 (Tazmi) · 保留所有权利。
